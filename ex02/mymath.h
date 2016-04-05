@@ -1,3 +1,0 @@
-
-int max(int, int);
-
