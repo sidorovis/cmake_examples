@@ -1,0 +1,3 @@
+
+int max(int, int);
+
