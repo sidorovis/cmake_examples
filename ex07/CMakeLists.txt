@@ -1,5 +1,5 @@
 set(v1 value)
-set(v2 "val2")
+set(v2 "v1" "v2" "v3" "v4" ${v1})
 set(v3 false)
 set(v4 0)
 
