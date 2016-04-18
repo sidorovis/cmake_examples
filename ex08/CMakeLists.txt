@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.3)
+cmake_minimum_required(VERSION 2.8)
 
-file(GLOB VAR "../*/*[n-z].txt")
+file(GLOB VAR "../*08*/*[n-z].txt")
 message(STATUS ${VAR})
